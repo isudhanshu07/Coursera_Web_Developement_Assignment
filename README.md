@@ -1,4 +1,4 @@
-# coursera-assignment
+# Coursera-Assignment
 
 # Outputs :
 
